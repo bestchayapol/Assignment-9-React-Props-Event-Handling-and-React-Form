@@ -1,0 +1,21 @@
+.card-container {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid lightgreen;
+    border-radius: 20px;
+    transition: background 1s, color 1s;
+}
+.card-container:hover {
+    background-color: lightgreen;
+    color: black;
+}
+
+/* .card-header {
+    color: yellowgreen;
+}
+
+.card-body {
+    color: lightsalmon;
+} */
